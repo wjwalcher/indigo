@@ -4,43 +4,26 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm	 William Walcher, and I'm a software developer originally from Minnesota who's currently pursuing a BSc. in Computer Science at the University of British Columbia in Vancouver, BC. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>In between classes I enjoy working on personal projects, some of which you'll find on this website, as well as my GitHub. I'm also heavily involved with UBC's Computer Science Student Society and served as the First Year Representative this past year. I will be going on to serve as the Vice President Social this coming year, where I work to organize events that build the CS community within UBC. I've also been involved in organizing hackathons in the past, including one that I started, and others for high school students as a regional manager at StudentRND.</p>
+
+<p>I'm currently seeking an internship for Summer 2019. If you'd like to get in touch, don't hesitate to send me an e-mail at <a href="mailto:hello@williamwalcher.xyz">hello@williamwalcher.xyz</a></p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Java</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Git</li>
+	<li>Racket</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Courses I've Taken</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>CPSC 110: Systematic Program Design</li>
+	<li>CPSC 121: Models of Computation</li>
+	<li>CPSC 210: Software Construction</li>
+	<li>MATH 221: Linear Algebra</li>
 </ul>
